@@ -27,7 +27,7 @@ angular.module("GruiApp").config(function(uiSelectConfig) {
   uiSelectConfig.theme = "select2";
 });
 
-var hostname = "http://localhost:2020";
+var hostname = "http://139.59.95.152:2020"
 
 //Run After view has been loaded
 angular
